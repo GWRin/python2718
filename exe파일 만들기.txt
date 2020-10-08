@@ -1,0 +1,7 @@
+.exe 실행 파일 생성
+python 2.x : py2exe 사용
+
+
+
+
+python 3.x PyInstaller 사용
